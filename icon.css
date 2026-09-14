@@ -23,7 +23,7 @@ main{
     height: 100%;
     width: 100%;
     background-image: conic-gradient(black 13%, transparent 13% 22.6%, black 22.6% 100%);
-    /* background-image: conic-gradient(red,blue,green,yellow,transparent); */
+    background-image: conic-gradient(red 13%, transparent 13% 22.6%,blue 22.6% 35%,green ,yellow 70%,red );
     border-radius: 50%;
     position: relative;
 }
@@ -43,7 +43,7 @@ main{
 .rectangle{
     height: 15.1%;
     width: 40%;
-    background-color: rgb(0,0,0);
+    background-color: rgb(8, 8, 255);
     position: absolute;
     top: 0;
     bottom: 0;
